@@ -1,4 +1,3 @@
-__author__ = 'Shadab Shaikh, Obaid Kazi, Ansari Mohd Adnan'
 
 from PyQt5 import QtWidgets, uic
 from PyQt5.QtWidgets import QMessageBox
