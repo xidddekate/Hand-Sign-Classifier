@@ -1,5 +1,3 @@
-__author__ = 'Rupesh Poudel'
-__SourcerepoLink__ = 'https://github.com/rrupeshh/Simple-Sign-Language-Detector'
 
 # Part 1 - Building the CNN
 #importing the Keras libraries and packages
